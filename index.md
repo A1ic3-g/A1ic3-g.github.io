@@ -1,15 +1,16 @@
-# Alice Gowler
-
 I am a first year Computer Science student studying at the University of Nottingham
 
-Before University I studied A levels in:
+Before uni I studied A levels in Computer Science, Physics and Mathematics.
 
-- Computer Science (A\*)
-- Physics (A\*)
-- Mathematics (B)
+I have extensive experience programming in python, including:
+- working on the AI for good / Deutsche Bank hack from home Covid-19 simulator for refugee camps as a student volunteer.
+- ImageFromImages project with Dom Binks at Hacknotts 21 (in 2022)
 
-I have extensive experience programming in python, including working on the AI for good / Deutsche Bank hack from home Covid-19 simulator for refugee camps.
+### List of languages sorted by proficiency
 
-I have a working knowledge of Golang and have completed a few projects in it such as my web crawler.
-
-I am currently learning C and ARM assembly at university and I have a level of familiarity with .NET C#.
+1. Python - Competent
+2. C - working knowledge
+3. Golang - working knowledge
+4. ARM assembly - basics
+5. Java - learning
+6. Haskell - Learning
